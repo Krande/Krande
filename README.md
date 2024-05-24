@@ -4,7 +4,7 @@ I am a structural engineer and open source developer based in Oslo, Norway.
 
 My open source development focuses mainly on improving my structural engineering workflow and sharing my findings with the open source community.
 
-I am the main developer of [ada-py](https://github.com/Krande/adapy) and [paradoc](https://github.com/Krande/paradoc) and I am also a contributor of IfcOpenShell and various other related CAD/FEM projects.
+I am the main developer of [ada-py](https://github.com/Krande/adapy) and [paradoc](https://github.com/Krande/paradoc) and I am also a contributor of [IfcOpenShell](https://github.com/IfcOpenShell/IfcOpenShell) and various other related CAD/FEM projects.
 
 - 🔭 I’m currently working on porting Code Aster to MSVC and distribute as a conda-forge package. This will to let those of us forced to use Windows in our day-jobs enjoy the wonderful Finite Element solver directly from inside our python environment
 

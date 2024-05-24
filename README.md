@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Kristoffer Andersen and I am a structural engineer and open source developer based in Oslo, Norway.
+I am a structural engineer and open source developer based in Oslo, Norway.
 
 My open source development focuses mainly on improving my structural engineering workflow and sharing my findings with the open source community.
 

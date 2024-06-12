@@ -9,7 +9,7 @@ I am the main developer of [ada-py](https://github.com/Krande/adapy) and [parado
 - 🔭 I’m currently working on porting Code Aster to MSVC and distribute it as a conda-forge package (see https://gitlab.com/krande/src).
   (This will to let those of us forced to use Windows in our day-jobs enjoy the wonderful code aster Finite Element solver directly from inside our python environment)
 
-If you've found anything I've made useful and want to buy me a cup of coffee as a thanks, you can either sponsor my individual projects or go to [sponsorship page](https://github.com/sponsors/Krande) :)
+If you've found anything I've made useful and want to buy me a cup of coffee as a thanks, you can either sponsor my individual projects or go to my [sponsorship page](https://github.com/sponsors/Krande) :)
 
 
 <!--

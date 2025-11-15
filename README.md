@@ -6,8 +6,11 @@ My open source development focuses mainly on improving my structural engineering
 
 I am the main developer of [ada-py](https://github.com/Krande/adapy) and [paradoc](https://github.com/Krande/paradoc) and I am also a contributor of [IfcOpenShell](https://github.com/IfcOpenShell/IfcOpenShell) and various other related CAD/FEM projects.
 
-- 🔭 I’m currently working on porting Code Aster to MSVC and distribute it as a conda-forge package (see https://gitlab.com/krande/src).
+🔭 I’m currently working on 
+
+- Porting Code Aster to MSVC and distribute it as a conda-forge package (see branch win_support on https://gitlab.com/krande/src).
   (This will to let those of us forced to use Windows in our day-jobs enjoy the wonderful code aster Finite Element solver directly from inside our python environment)
+- Adding more features to adapy and paradoc to enhance my daily structural engineering workflow. 
 
 If you've found anything I've made useful and want to buy me a cup of coffee as a thanks, you can either sponsor my individual projects or go to my [sponsorship page](https://github.com/sponsors/Krande) :)
 
